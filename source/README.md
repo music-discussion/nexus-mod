@@ -4,6 +4,9 @@ Engine originally used on [Mind Games Mod](https://gamebanana.com/mods/301107), 
 ## Installation:
 You must have [the most up-to-date version of Haxe](https://haxe.org/download/), seriously, stop using 4.1.5, it misses some stuff.
 
+--Discussions:
+oop. I'm using 4.1.5 to build this version, and I have no errors. So do what you want.
+
 Follow a Friday Night Funkin' source code compilation tutorial, after this you will need to install LuaJIT.
 
 To install LuaJIT do this: `haxelib git linc_luajit https://github.com/AndreiRudenko/linc_luajit ` on a Command prompt/PowerShell
